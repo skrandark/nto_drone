@@ -1,3 +1,4 @@
+'''Это код программного интерфейса, с помощью которого осуществляется управление миссие'''
 import time
 import tkinter as tk
 from tkinter import ttk
