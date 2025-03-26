@@ -1,3 +1,4 @@
+'''Это код, загружаемый на первый дрон. Полетная миссия первого дрона описана в README'''
 import random
 import socket
 import pickle
