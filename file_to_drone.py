@@ -1,3 +1,6 @@
+'''Этот код отвечает за загруюает и запуск файлов миссии на дроны'''
+
+
 import paramiko
 from scp import SCPClient
 
